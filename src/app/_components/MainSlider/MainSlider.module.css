@@ -1,0 +1,6 @@
+.test {
+    background-image: url("/images/mainSlider.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
